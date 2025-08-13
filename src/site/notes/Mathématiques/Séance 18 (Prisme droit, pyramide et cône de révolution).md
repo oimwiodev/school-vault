@@ -3,7 +3,6 @@
 ---
 
 
-
 I- Prisme droit (Rappel)
 
 1-1/ Définition

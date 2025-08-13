@@ -4,15 +4,11 @@
 
 
 **Professeur :** Mr BENGHANI Youssef
-
 ### Sommaire
 
 1. Théorème de Pythagore 1.1. Théorème direct 1.2. Présentation des nombres réels 1.3. Théorème réciproque
-    
 2. Cosinus d'un angle aigu 2.1. Définition 2.2. Exemple 2.3. Applications
-    
 3. Exercices
-    
 
 ### I. Théorème de Pythagore
 
